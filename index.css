@@ -144,6 +144,9 @@ header{
     }
     .copyright{
         
+        margin-bottom: 7px;
+        text-decoration: red;
+        background-color:  #aba6a6;
         display: flex;
         justify-content: center;
     }
